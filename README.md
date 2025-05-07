@@ -24,3 +24,24 @@
   <script src="script.js"></script>
 </body>
 </html>
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  margin-top: 1rem;
+}
+
+#map {
+  height: 80vh;
+  width: 90%;
+  margin: 1rem auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
